@@ -35,14 +35,28 @@ The ResNet-50 pre-trained model can be downloaded from <a href="https://github.c
 
 # Training
 Step 1, run the ```tfdata.py``` file to transfer the data into the tf.record file format.
+```
+python tfdata.py
+```
 
 Step 2, run the ```training.py``` file to start training.
+```
+python training.py
+```
 
 # Tesing
 
 Run the ```test1.py file``` to test the performance of a single model.
+```
+python test1.py
+```
 
 Run the ```testall.py``` file to test the performance of all the models in the checkpoints file folder. 
+```
+python testall.py
+```
+
+Please note, before using the ```testall.py``` script, please remember to delete a file named ```checkpoint``` in the ```checkpoints``` file folder.
 
 # Citation
 
