@@ -2,7 +2,7 @@
 the official implemetation of the CVIU 2023 publication
 
 # Background & Project Overview
-
+![avatar](/framework.pdf)
 
 # Developing Environment
 
