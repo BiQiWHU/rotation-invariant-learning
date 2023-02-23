@@ -43,6 +43,18 @@ file folder.
 
 # Citation
 
+If you find this project useful, or use the source code from this project, please consider citing our work as
+```
+@article{bi2023learning,
+  title={Learning rotation equivalent scene representation from instance-level semantics: A novel top-down perspective},
+  author={Bi, Qi and You, Shaodi and Ji, Wei and Gevers, Theo},
+  journal={Computer Vision and Image Understanding},
+  pages={103635},
+  year={2023},
+  publisher={Elsevier}
+}
+```
+
 # Contact Information
 
 Qi Bi
