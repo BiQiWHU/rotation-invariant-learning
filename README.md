@@ -5,6 +5,12 @@ Learning rotation equivalent scene representation from instance-level semantics:
 
 # Background & Project Overview
 
+Due to the variation of imaging conditions and object distributions, many visual recognition tasks need to distinguish scenes in which key objects and region of interests (RoIs) are varied greatly in terms of orientations.
+
+In this work, we present a novel rotation equivalent scene representation learning scheme from a top-down perspective. In this scheme, no efforts are required to extract convolutional features from multiple rotated samples or by using rotated convolution filters, which perfectly eliminates the flaw in the existing bottom-up pipelines that the convolution operation is sensitive to rotation due to its rotation in-equivalent nature.
+
+An overview of the proposed method can be found in the attached figure. 
+
 ![avatar](/framework.png)
 
 # Developing Environment
