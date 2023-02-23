@@ -1,5 +1,7 @@
 # rotation-invariant-learning
-the official implemetation of the CVIU 2023 publication
+The official implemetation of our CVIU 2023 publication, entitled as 
+
+Learning rotation equivalent scene representation from instance-level semantics: A novel top-down perspective
 
 # Background & Project Overview
 
