@@ -38,8 +38,15 @@ checkpoint
 file folder.
 
 # Training
+Step 1, run the tfdata.py file to transfer the data into the tf.record file format.
+
+Step 2, run the training.py file to start training.
 
 # Tesing
+
+Run the test1.py file to test the performance of a single model.
+
+Run the testall.py file to test the performance of all the models in the checkpoints file folder. 
 
 # Citation
 
