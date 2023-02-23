@@ -34,15 +34,15 @@ The datasets this paper use are all publicly available, and can be found in
 The ResNet-50 pre-trained model can be downloaded from <a href="https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models"> here</a> and is supposed to put into the ```checkpoint``` file folder.
 
 # Training
-Step 1, run the tfdata.py file to transfer the data into the tf.record file format.
+Step 1, run the ```tfdata.py``` file to transfer the data into the tf.record file format.
 
-Step 2, run the training.py file to start training.
+Step 2, run the ```training.py``` file to start training.
 
 # Tesing
 
-Run the test1.py file to test the performance of a single model.
+Run the ```test1.py file``` to test the performance of a single model.
 
-Run the testall.py file to test the performance of all the models in the checkpoints file folder. 
+Run the ```testall.py``` file to test the performance of all the models in the checkpoints file folder. 
 
 # Citation
 
