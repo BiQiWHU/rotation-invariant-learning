@@ -32,9 +32,9 @@ The datasets this paper use are all publicly available, and can be found in
 .
 
 The ResNet-50 pre-trained model can be downloaded from <a href="https://github.com/tensorflow/models/tree/master/research/slim#pre-trained-models"> here</a> and is supposed to put into the 
-'''
+```
 checkpoint
-''' 
+```
 file folder.
 
 # Training
