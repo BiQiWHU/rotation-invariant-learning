@@ -25,6 +25,10 @@ OpenCV > 3
 
 Numpy > 1.16
 
+The datasets this paper use are all publicly available, and can be found in 
+
+.
+
 # Training
 
 # Tesing
