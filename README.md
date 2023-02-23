@@ -26,9 +26,9 @@ OpenCV > 3
 Numpy > 1.16
 
 The datasets this paper use are all publicly available, and can be found in 
-<a href="https://captain-whu.github.io/AID/"> AID </a>,
-<a href="https://github.com/smilell/AG-CNN"> LAG </a>, and 
-<a href="https://www.researchgate.net/publication/249656240_Kylberg_Texture_Dataset_v_10"> KTD </a>, respectively
+<a href="https://captain-whu.github.io/AID/"> AID</a>,
+<a href="https://github.com/smilell/AG-CNN"> LAG</a>, and 
+<a href="https://www.researchgate.net/publication/249656240_Kylberg_Texture_Dataset_v_10"> KTD</a>, respectively
 .
 
 # Training
